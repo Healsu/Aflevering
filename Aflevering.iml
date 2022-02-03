@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Skole relateret/ProperCase" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Skole relateret/Sortering" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Skole relateret/søgning" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
